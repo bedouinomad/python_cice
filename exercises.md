@@ -32,35 +32,35 @@ En cierta academia hay dos cursos de programación en Python, uno de ellos por l
 	Python por las tardes: ["Germán", "Sara", "José", "Claudio", "Rubén", "Sandra"]
 	
 	mañana = [{
-		"name": "Patricia"
+		"name": "Patricia",
 		"id" :  "001"
 	},
 	{
-		"name": "Nicole"
+		"name": "Nicole",
 		"id" :  "002"
 	},
 	{
-		"name": "Javier"
+		"name": "Javier",
 		"id" :  "003"
 	},
 	{
-		"name": "Verónica"
+		"name": "Verónica",
 		"id" :  "004"
 	},
 	{
-		"name": "Guillermo"
+		"name": "Guillermo",
 		"id" :  "005"
 	},
 	{
-		"name": "Pablo"
+		"name": "Pablo",
 		"id" :  "006"
 	},
 	{
-		"name": "Patricia"
+		"name": "Patricia",
 		"id" :  "007"
 	},
 	{
-		"name": "Patricia"
+		"name": "Patricia",
 		"id" :  "008"
 	},
 	
@@ -68,26 +68,26 @@ En cierta academia hay dos cursos de programación en Python, uno de ellos por l
 	
 	tarde =[
 	{
-		"name": "Germán"
+		"name": "Germán",
 		"id" :  "001"
 	},
 	{
-		"name": "Sara"
+		"name": "Sara",
 		"id" :  "002"
 	},
 	{
-		"name": "Jorge"
+		"name": "Jorge",
 		"id" :  "003"
 	},
 	{
-		"name": "María"
+		"name": "María",
 		"id" :  "004"
 	},
 	{
-		"name": "Alicia"
+		"name": "Alicia",
 		"id" :  "005"
 	},
 	{
-		"name": "Hernesto"
+		"name": "Hernesto",
 		"id" :  "006"
 	},]
